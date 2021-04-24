@@ -41,16 +41,16 @@ The following are the topics I've planned to cover during my hours dedicated to 
 Written up the study plan
 
 # Plan
-## 26/04/2021 - 30/04/2021 [Infrastucture]
+## 30/04/2021 Infrastucture
 [Kubernetes for developers](https://pro.codely.tv/library/kubernetes-para-desarrolladores/81666/about/)
 Repass the fundamentals of Kubernetes after a long time without using it
 
 
-## 3/5/2021 - 7/05/2021 [Infrastructure]
+## 7/05/2021 Infrastructure
 [Kubernetes for developers](https://pro.codely.tv/library/kubernetes-para-desarrolladores/81666/about/)
 Repass the fundamentals of Kubernetes after a long time without using it. Second part. 
 
-## 14/05/2021 [Frontend Programming]
+## 14/05/2021 Frontend Programming
 [Javascript: the good parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742). Read until chapter 4
 
 
