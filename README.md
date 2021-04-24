@@ -1,11 +1,24 @@
 # Topics
-The following are the topics I've planned to cover during my hours dedicated to studying. Additional non-planned material could be added in the future on the logs, and hence here, if casually bumping into them and worth a reading/studying/watching. 
+The following are the topics I've planned to cover during my hours dedicated to studying. Additional non-planned material could be added in the future on the logs, and hence here, if casually bumping into them and worth a reading/studying/watching.
 
-
-|:vertical_traffic_light:|Still to plan|
-|:eight_spoked_asterisk:|Ongoing course|
-|:white_check_mark:|Completed|
-|:mag:|Next planned|
+<table>
+  <tr>
+    <td>:vertical_traffic_light:</td>
+    <td>Still to plan</td>
+  </tr>
+  <tr>
+    <td>:eight_spoked_asterisk:</td>
+    <td>Ongoing course</td>
+  </tr>
+  <tr>
+    <td>:white_check_mark:</td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>:mag:</td>
+    <td>Next planned</td>
+  </tr>
+</table>
 
 ## Infrastructure
 - :eight_spoked_asterisk:[Kubernetes for developers](https://pro.codely.tv/library/kubernetes-para-desarrolladores/81666/about/). MOC
