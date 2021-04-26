@@ -25,6 +25,7 @@ The following are the topics I've planned to cover during my hours dedicated to 
 
 ## Frontend Programming
 - :eight_spoked_asterisk:[Javascript: the good parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742). Book
+- :mag:[Framework-independend, decoupled frontend architecture for large-scale projects](https://www.youtube.com/watch?v=yDlp2o2Eh7Q&t=444s). Conference video
 - :vertical_traffic_light:[Learning FP with Javascript](https://www.youtube.com/watch?v=e-5obm1G_FY). Conference video
 - :vertical_traffic_light:[Functional programmin in javascript](https://techaffinity.com/blog/functional-programming-in-javascript-part1/). Article
 - :vertical_traffic_light:[Introduction to functional programming in JS](https://opensource.com/article/17/6/functional-javascript). Article
