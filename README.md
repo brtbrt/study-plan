@@ -25,14 +25,14 @@ The following are the topics I've planned to cover during my hours dedicated to 
 
 ## Architecture
 - :white_check_mark:[DDD Aplicado](https://pro.codely.tv/library/domain-driven-design-ddd). MOOC
-- :eight_spoked_asterisk:[CQRS](https://pro.codely.tv/library/cqrs-command-query-responsibility-segregation-3719e4aa). MOOC
-- :mag:[Event Driven architecture for [micro]services](https://pro.codely.tv/library/comunicacion-entre-microservicios-event-driven-architecture). MOOC
+- :white_check_mark:[CQRS](https://pro.codely.tv/library/cqrs-command-query-responsibility-segregation-3719e4aa). MOOC
+- :eight_spoked_asterisk:[Event Driven architecture for [micro]services](https://pro.codely.tv/library/comunicacion-entre-microservicios-event-driven-architecture). MOOC
 - :white_check_mark:[Framework-independend, decoupled frontend architecture for large-scale projects](https://www.youtube.com/watch?v=yDlp2o2Eh7Q&t=444s). Conference video
 
 ## Frontend Programming
 - :eight_spoked_asterisk:[Javascript: the good parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742). Book
 - :white_check_mark:[Learning FP with Javascript](https://www.youtube.com/watch?v=e-5obm1G_FY). Conference video
-- :vertical_traffic_light:[Functional programmin in javascript](https://techaffinity.com/blog/functional-programming-in-javascript-part1/). Article
+- :vertical_traffic_light:[Functional programming in javascript](https://techaffinity.com/blog/functional-programming-in-javascript-part1/). Article
 - :vertical_traffic_light:[Introduction to functional programming in JS](https://opensource.com/article/17/6/functional-javascript). Article
 - :vertical_traffic_light:[Functional Javascript: Introducing functional programming with underscore.js](https://www.goodreads.com/book/show/17623632-functional-javascript). Book
 - :vertical_traffic_light:[Introduction to reactive programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754). Article
@@ -44,13 +44,20 @@ The following are the topics I've planned to cover during my hours dedicated to 
 
 ## Backend Programming
 - :vertical_traffic_light:[Testing: introducción y buenas prácticas](https://pro.codely.tv/library/testing-introduccion-y-buenas-practicas/90916/about/). MOC
+- :vertical_traffic_light:[Memroy management on JVM](https://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java#memory-management-in-java-8211-young-generation)
+
 
 ## Programming
 - :vertical_traffic_light:[El arte del patadón pa'lante](https://www.youtube.com/watch?v=AQK_YgFj7Ng). Video conference
 
 # Log
+## 11/06/2021
+- Completed the course "CQRS"
+- Completed the kata repository of applied DDD, CQRS and some event-driven architecture for microservices in node.js. Available at: https://github.com/brtbrt/ddd-in-JS-sample
+- Started course "Comunicación entre microservicios: Event-Driven Architecture"
+
 ## 30/04/2021
-Retaken some architecture principles. 
+Retaken some architecture principles.
 - Completed the course "DDD Aplicado". It gives a down-to-earth, keep-it-real cases where DDD is applied, and how. It's useful to complete the DDD knowledge pragmatically, and in order to apply on projects / adopt in teams step by step, without disrupting useless changes.
 - ...but is DDD applicable on Front? After a long research, by random chatting with my network of people I've bumped into a frontend architect who is redesigning a new frontend in DDD. He explained me his point of view and passed me the talk he gave, which is linked above "Framework-independend, decoupled frontend architecture for large-scale projects". Actually it opened me a new world, since I though I was the only one who had the impression that a domain is well needed for big frontend apps, which we don't do here, actually.
 
@@ -71,9 +78,15 @@ Repass the fundamentals of Kubernetes after a long time without using it
 
 ## 7/05/2021 Infrastructure
 [Kubernetes for developers](https://pro.codely.tv/library/kubernetes-para-desarrolladores/81666/about/)
-Repass the fundamentals of Kubernetes after a long time without using it. Second part. 
+Repass the fundamentals of Kubernetes after a long time without using it. Second part.
 
 ## 14/05/2021 Frontend Programming
 [Javascript: the good parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742). Read until chapter 4
 
 
+
+
+LUCENE for elastic search
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp  node js for beginners
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU node js crash course
