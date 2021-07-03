@@ -20,14 +20,18 @@ The following are the topics I've planned to cover during my hours dedicated to 
   </tr>
 </table>
 
+https://soporte.codely.tv/es/articles/4187948-en-que-orden-hacer-los-cursos
+
+
 ## Infrastructure
 - :eight_spoked_asterisk:[Kubernetes for developers](https://pro.codely.tv/library/kubernetes-para-desarrolladores/81666/about/). MOOC
+- :vertical_traffic_light:[AsyncAPI](https://www.youtube.com/watch?v=AkRVD4rmTOI). Talk/conference
 
 ## Architecture
 - :white_check_mark:[DDD Aplicado](https://pro.codely.tv/library/domain-driven-design-ddd). MOOC
 - :white_check_mark:[CQRS](https://pro.codely.tv/library/cqrs-command-query-responsibility-segregation-3719e4aa). MOOC
-- :eight_spoked_asterisk:[Event Driven architecture for [micro]services](https://pro.codely.tv/library/comunicacion-entre-microservicios-event-driven-architecture). MOOC
-- :white_check_mark:[Framework-independend, decoupled frontend architecture for large-scale projects](https://www.youtube.com/watch?v=yDlp2o2Eh7Q&t=444s). Conference video
+- :white_check_mark:[Event Driven architecture for [micro]services](https://pro.codely.tv/library/comunicacion-entre-microservicios-event-driven-architecture). MOOC
+- :white_check_mark:[Framework-independent, decoupled frontend architecture for large-scale projects](https://www.youtube.com/watch?v=yDlp2o2Eh7Q&t=444s). Conference video
 
 ## Frontend Programming
 - :eight_spoked_asterisk:[Javascript: the good parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742). Book
@@ -51,6 +55,10 @@ The following are the topics I've planned to cover during my hours dedicated to 
 - :vertical_traffic_light:[El arte del patadón pa'lante](https://www.youtube.com/watch?v=AQK_YgFj7Ng). Video conference
 
 # Log
+## 2/07/2021
+- Completed the course "Comunicación entre microservicios: Event-Driven Architecture"
+- Trying out architectural setup with the api gateway krakend and auth via auth0 on the pet project. Next, I'll setup jäger and ELK stack for logging, monitoring and tracing
+
 ## 11/06/2021
 - Completed the course "CQRS"
 - Completed the kata repository of applied DDD, CQRS and some event-driven architecture for microservices in node.js. Available at: https://github.com/brtbrt/ddd-in-JS-sample
