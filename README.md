@@ -49,12 +49,18 @@ https://soporte.codely.tv/es/articles/4187948-en-que-orden-hacer-los-cursos
 ## Backend Programming
 - :vertical_traffic_light:[Testing: introducción y buenas prácticas](https://pro.codely.tv/library/testing-introduccion-y-buenas-practicas/90916/about/). MOC
 - :vertical_traffic_light:[Memroy management on JVM](https://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java#memory-management-in-java-8211-young-generation)
+- :eight_spoked_asterisk:[https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420](Domain-Driven Design Distilled)
 
 
 ## Programming
 - :vertical_traffic_light:[El arte del patadón pa'lante](https://www.youtube.com/watch?v=AQK_YgFj7Ng). Video conference
+- :vertical_traffic_light:[Dynamic programmind](https://www.youtube.com/watch?v=oBt53YbR9Kk). Video course
+- :vertical_traffic_light:[Introduction to database engineering](https://www.udemy.com/course/database-engines-crash-course/learn/lecture/22515194?start=0#overview)
 
 # Log
+## 20/08/2021
+- Started reading Domain-Driven Design Distilled
+
 ## 2/07/2021
 - Completed the course "Comunicación entre microservicios: Event-Driven Architecture"
 - Trying out architectural setup with the api gateway krakend and auth via auth0 on the pet project. Next, I'll setup jäger and ELK stack for logging, monitoring and tracing
