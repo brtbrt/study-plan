@@ -10,7 +10,7 @@ Status      |   Programming Languages   | Infrastructure    | Architecture  | Fu
 [C++](#C++)             |                   |               | 
 [Conan](#Conan)         |                   |
 |   |
- .        |                   |               |               | [Operating System](#Operating-system) |
+         |                   |               |               | [Operating System](#Operating-system) |
 **Next**    |           | | | |
 
             |           |                   |               |               | aaa
