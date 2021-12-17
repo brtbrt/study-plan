@@ -1,3 +1,65 @@
+# Overview
+The long-term goal is managing with ease the unified_config system all by myself, and having a fresh knowledge of servercore topics.
+Then, the focus will move to modern programming architecture and best-practices, like DDD, microservices, which I've already covered in the past.
+
+# Study pipeline
+Status      |   Programming Languages   | Infrastructure    | Architecture  | Fundamentals 
+---         |   ---                     | ---               | ---           | ---
+**Ongoing** |
+[CMake](#Cmake)         |                   |               |               | [Operating System](#Operating-system)
+[C++](#C++)             |                   |               | 
+[Conan](#Conan)         |                   |
+|   |
+**Next**    |
+            |           |                   |               |               | [Algorithms and Data Structure](#algorithms-and-data-structure)
+            | [Functional programming]()
+
+# Logs
+## 17/12/2021
+- Terminated C++ course: I'll start using c++ as the main language for extra-related work, so as to strengthen the knowledge.
+- Terminated CMake Tutorial: good hands-on tutorial
+- Looking at the conan repo tool in order to use with cmake: with this tool c++ starts looking a modern lang :) (although with its limits, like lack of interfaces..)
+
+# Topics
+## Programming Languages
+### C++
+[Link to the Udemy course](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/27255982#overview)
+
+A massive online course that makes you discover the main functionalities of C++20.
+It's quite boring (he reads slides all the time and he makes boring examples by repeating himself way too much. I'd have appreciated references to learn yourself once the basic concept has been explained. Meh.) 
+and it's better used as a guideline for the main topics you should cover in order to know the basics of C++.
+Just used this because I paid for it, at least I've paid it for something.
+
+### Cmake
+[Youtube video tutorial](https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4)
+
+Well done, it makes you discover from scratch how cmake works, without leaving any "magic" functionality
+
+### Conan
+[Manual](https://docs.conan.io/en/latest/introduction.html)
+
+Jus reading the manual so as to use the repo for the projects
+
+## Fundamentals
+### Operating systems
+[Like to the udacity course](https://classroom.udacity.com/courses/ud923)
+
+A hands-on massive online course to go over the main concepts of Operating Systems.
+* Threads
+* Concurrency (the part I care most)
+
+### Algorithms and Data Structure
+[Link to the lecutre's videos](https://www.youtube.com/channel/UCr_f7uNI48xCmsG4zVuhU-g/playlists)
+It's among the 3 best universities in Italy, the course is in italian, being recorder in remote during the pandemic lockdown. 
+If you attended an algorithm and data structure's course at the university, this course does not give you new knowledge.
+It's just a "go over your knowledge" on specific concepts I think they're useful in our developer daily life like: 
+- Graph algorithms
+- Flow algorithms
+- Dynamic programming
+
+# Stale old doc
+To be moved above
+
 # Topics
 The following are the topics I've planned to cover during my hours dedicated to studying. Additional non-planned material could be added in the future on the logs, and hence here, if casually bumping into them and worth a reading/studying/watching.
 
