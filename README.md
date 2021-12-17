@@ -12,7 +12,7 @@ Status      |   Programming Languages   | Infrastructure    | Architecture  | Fu
 |   |
 **Next**    |
             |           |                   |               |               | [Algorithms and Data Structure](#algorithms-and-data-structure)
-            | [Functional programming]()
+            | [Functional programming]()    |               |               | 
 
 # Logs
 ## 17/12/2021
@@ -50,6 +50,7 @@ A hands-on massive online course to go over the main concepts of Operating Syste
 
 ### Algorithms and Data Structure
 [Link to the lecutre's videos](https://www.youtube.com/channel/UCr_f7uNI48xCmsG4zVuhU-g/playlists)
+
 It's among the 3 best universities in Italy, the course is in italian, being recorder in remote during the pandemic lockdown. 
 If you attended an algorithm and data structure's course at the university, this course does not give you new knowledge.
 It's just a "go over your knowledge" on specific concepts I think they're useful in our developer daily life like: 
