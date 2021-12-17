@@ -10,10 +10,10 @@ Status      |   Programming Languages   | Infrastructure    | Architecture  | Fu
 [C++](#C++)             |                   |               | 
 [Conan](#Conan)         |                   |
 |   |
-|                   |               |               | [Operating System](#Operating-system) |
-**Next**    |           | | | |
 
-            |           |                   |               |               | aaa
+**Next**    |           | | | |
+|           |                   |               |               | [Algorithms and Data Structure](#algorithms-and-data-structure)
+| [Functional programming]()    |              
 
 
 # Logs
