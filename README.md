@@ -10,7 +10,7 @@ Status      |   Programming Languages   | Infrastructure    | Architecture  | Fu
 [C++](#C++)             |                   |               | 
 [Conan](#Conan)         |                   |
 |   |
-**Next**    |           | 
+**Next**    |           | | | |
             |           |                   |               |               | aaa
 
 
