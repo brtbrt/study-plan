@@ -12,7 +12,7 @@ Status      |   Programming Languages   | Infrastructure    | Architecture  | Fu
 |   |
 **Next**    |           |
             |           |                   |               |               | [Algorithms and Data Structure](#algorithms-and-data-structure)
-            | [Functional programming]()    |               |               | 
+
 
 # Logs
 ## 17/12/2021
